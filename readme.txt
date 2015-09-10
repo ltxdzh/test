@@ -5,4 +5,5 @@ Git tracks changes.
 Mod 1
 Creating a new branch is quick & simple.
 New line
+bug line
 Bug fixed
